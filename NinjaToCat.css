@@ -1,0 +1,9 @@
+#pics{
+    width: 200;
+    height: 400;
+    margin: 0px auto;
+    /* border: 3px solid red; */
+}
+img{
+    display: block;
+}
